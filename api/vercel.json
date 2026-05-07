@@ -1,3 +1,6 @@
 {
   "buildCommand": "npm install stripe"
 }
+git add api/checkout.js vercel.json
+git commit -m "Add Stripe checkout function"
+git push
